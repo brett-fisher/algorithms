@@ -10,5 +10,5 @@ for (var i=0; i<bikeLog.length; i++) {
     } else {
       checkedOutBikes.push(currentBike);
     }
-    console.log(checkedOutBikes);
 }
+console.log(checkedOutBikes);
